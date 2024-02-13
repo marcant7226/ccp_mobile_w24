@@ -1,12 +1,62 @@
-#main .title{
-    background-color:rgb(254, 214, 221);
-    border-right: rgb(255, 162, 178) 5px solid;
-    border-bottom: rgb(255, 162, 178) 5px solid;
+
+body{
+    background-color: rgb(251, 232, 235);
+}
+.title-text{
+    background-color:rgb(250, 224, 224);
+    border: rgb(245, 117, 138) 5px dotted; 
+    padding:10px;
+    font-size: small;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+h1{
+    text-align:center;
+    font-family:cursive;
+    font-weight: normal;
+    font-size:40px;
+    background-color: #ffffff;
+    padding-right: 4px;
     padding:5px;
+    border-top: rgb(252, 156, 156) 5px solid; 
+}
+
+.message{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: small;
+    padding: 10px;
+    text-align: right;
+}
+
+.list-of-ingredients-recipes ul{
+    background-color: #fff8f8;
+    text-align: center;
+    line-height: 30px;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    padding:10px;
 
 }
 
-#main .title p{
+h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: larger;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: cursive;
 }
+
+h2{
+    font-family: cursive;
+    display: block;
+    text-align: center;
+    padding:10px;
+    border: 5px rgb(255, 255, 255) double ;
+
+}
+
+
+
