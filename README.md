@@ -1,2 +1,2 @@
-# ccp_mobile_w24
-SI 339 - Homework CCP Mobile View Complete
+# ccp_starter_code
+Starter Code for your CCP 
